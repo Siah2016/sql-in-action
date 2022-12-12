@@ -1,0 +1,1 @@
+SELECT * from intro_sql.final_airbnb
